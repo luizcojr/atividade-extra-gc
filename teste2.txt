@@ -1,0 +1,12 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 6C47-945C
+
+ Pasta de C:\Git\atividade-extra-gc
+
+04/05/2020  20:36    <DIR>          .
+04/05/2020  20:36    <DIR>          ..
+04/05/2020  20:04                20 README.md
+04/05/2020  20:06                20 teste.txt
+04/05/2020  20:36                 0 teste2.txt
+               3 arquivo(s)             40 bytes
+               2 pasta(s)   188.666.216.448 bytes dispon°veis
